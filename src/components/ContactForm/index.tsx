@@ -42,6 +42,15 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
               <Col span={24}>
                 <Input
                   type="text"
+                  name="Number"
+                  placeholder="Your WhatsApp Number"
+                  value={values.message || ""}
+                  onChange={handleChange}
+                />
+              </Col>
+              <Col span={24}>
+                <Input
+                  type="text"
                   name="email"
                   placeholder="Your Email"
                   value={values.email || ""}

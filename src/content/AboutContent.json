@@ -1,16 +1,16 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Your Trusted Partner in Development and Training",
+  "text": "LSD Enterprise is a dynamic company excelling in construction, driving school lessons, and local soccer team development. We are committed to delivering exceptional services tailored to your goals, backed by a team of dedicated professionals.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "Why Choose Us?",
+      "content": "Our expertise spans multiple domains, ensuring you receive comprehensive and reliable solutions.",
+      "icon": "trust.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "title": "Our Mission",
+      "content": "To empower communities through quality construction, education, and sports development.",
+      "icon": "mission.png"
     }
   ]
 }
