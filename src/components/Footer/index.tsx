@@ -67,7 +67,7 @@ const Footer = ({ t }: { t: TFunction }) => {
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
               <Language>{t("Our Branches")}</Language>
-              <Para>MAMELDOI</Para>
+              <Para>MAMELODI</Para>
               <Para>LEBOWAKGOMO</Para>
               <Para>MOKOPANE</Para>
             </Col>
